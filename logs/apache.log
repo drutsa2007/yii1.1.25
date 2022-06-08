@@ -1,0 +1,22 @@
+[Wed Sep 14 10:42:29.902022 2011] [core:error] [pid 35708:tid 4328636416] [client 72.15.99.187] Error text 1
+[Wed Sep 14 10:42:29.902022 2011] [core:error] [pid 35708:tid 4328636416] [client 72.15.99.187] Error text 21
+[Wed Sep 14 10:42:29.902022 2011] [core:error] [pid 35708:tid 4328636416] [client 72.15.98.187] Error text 3
+[Fri Sep 16 10:42:29.902022 2011] [core:error] [pid 35708:tid 4328636416] [client 72.15.99.187] Error text 5
+[Fri Sep 16 10:42:29.902022 2011] [core:error] [pid 35708:tid 4328636416] [client 72.15.99.187] Error text 19
+[Fri Sep 16 10:42:29.902022 2011] [core:error] [pid 35708:tid 4328636416] [client 72.15.99.187] Error text 7
+[Fri Sep 16 10:42:29.902022 2011] [core:error] [pid 35708:tid 4328636416] [client 72.15.98.187] Error text 17
+[Fri Sep 16 10:42:29.902022 2011] [core:error] [pid 35708:tid 4328636416] [client 72.15.99.187] Error text 9
+[Fri Sep 16 10:42:29.902022 2011] [core:error] [pid 35708:tid 4328636416] [client 72.15.99.187] Error text 15
+[Fri Sep 16 10:42:29.902022 2011] [core:error] [pid 35708:tid 4328636416] [client 72.15.99.187] Error text 11
+[Fri Sep 16 10:42:29.902022 2011] [core:error] [pid 35708:tid 4328636416] [client 72.15.99.187] Error text 13
+[Sun Aug 18 12:43:09.867536 2011] [authz_core:error] [pid 30395] [client 144.76.38.10:42847] Error text 12
+[Sun Aug 18 12:43:09.867536 2011] [authz_core:error] [pid 30395] [client 144.76.28.10:42847] Error text 10
+[Sun Aug 18 12:43:09.867536 2011] [authz_core:error] [pid 30395] [client 144.76.28.10:42847] Error text 14
+[Sun Aug 18 12:43:09.867536 2011] [authz_core:error] [pid 30395] [client 144.76.28.10:42847] Error text 8
+[Sun Aug 18 12:43:09.867536 2011] [authz_core:error] [pid 30395] [client 144.76.28.10:42847] Error text 16
+[Sun Aug 18 12:43:09.867536 2011] [authz_core:error] [pid 30395] [client 144.76.28.10:42847] Error text 6
+[Sun Aug 18 12:43:09.867536 2011] [authz_core:error] [pid 30395] [client 144.76.38.10:42847] Error text 18
+[Mon Aug 19 12:43:09.867536 2011] [authz_core:error] [pid 30395] [client 144.76.28.10:42847] Error text 4
+[Mon Aug 19 12:43:09.867536 2011] [authz_core:error] [pid 30395] [client 144.76.28.10:42847] Error text 20
+[Mon Aug 19 12:43:09.867536 2011] [authz_core:error] [pid 30395] [client 144.76.38.10:42847] Error text 2
+[Mon Aug 19 12:43:09.867536 2011] [authz_core:error] [pid 30395] [client 144.76.38.10:42847] Error text 22
